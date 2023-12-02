@@ -1,0 +1,11 @@
+# .gitignore
+
+# Node.js
+node_modules/
+server/node_modules/
+my-react-app/node_modules/
+
+# Dependency files
+package-lock.json
+server/package-lock.json
+my-react-app/package-lock.json
